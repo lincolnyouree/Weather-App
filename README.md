@@ -10,3 +10,8 @@
 
 * React.js
 * API
+* GitHub Pages
+
+## Screenshot
+
+![Wireframe](https://i.imgur.com/u1T48F2.png)
